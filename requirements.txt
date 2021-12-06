@@ -1,0 +1,7 @@
+--find-links https://girder.github.io/large_image_wheels GDAL
+large-image
+large-image-source-gdal
+large-image-source-pil
+matplotlib
+gunicorn
+localtileserver>=0.3.6
