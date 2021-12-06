@@ -1,4 +1,4 @@
-# 📦 Remote Tile Server
+# 📡 Remote Tile Server
 
 [![Deploy on Heroku](https://github.com/banesullivan/remotetileserver/actions/workflows/heroku.yml/badge.svg)](https://github.com/banesullivan/remotetileserver/actions/workflows/heroku.yml)
 
