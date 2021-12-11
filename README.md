@@ -2,13 +2,13 @@
 
 [![Deploy on Heroku](https://github.com/banesullivan/remotetileserver/actions/workflows/heroku.yml/badge.svg)](https://github.com/banesullivan/remotetileserver/actions/workflows/heroku.yml)
 
-*A template for deploying [localtileserver](https://github.com/banesullivan/localtileserver) on Heroku.*
+*A template for deploying [localtileserver](https://github.com/banesullivan/localtileserver) in a custon Flask application on Heroku.*
 
 
 ## ℹ️ Overview
 
-This is a template repository for deploying a localtileserver instance on
-Heroku.
+This is a template repository to show how to use `localtileserver`'s Flask
+blueprint in a custom application and deploy on Heroku.
 
 
 ## 🚀 Usage
@@ -20,7 +20,7 @@ your repository for your Heroku account:
 - `HEROKU_APP_NAME`
 - `HEROKU_EMAIL`
 
-After that, the GitHub Action should deploy localtileserver for you on your
+After that, the GitHub Action should deploy `remotetileserver` for you on your
 Heroku account and you can configure the dyno to your desire.
 
 I recommend setting up your AWS S3 credentials in the Heroku interface or at

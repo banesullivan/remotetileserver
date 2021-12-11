@@ -1,1 +1,1 @@
-web: gunicorn localtileserver.application.wsgi:app
+web: gunicorn remotetileserver.wsgi:app
