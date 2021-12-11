@@ -4,4 +4,4 @@ large-image-source-gdal
 large-image-source-pil
 matplotlib
 gunicorn
-localtileserver>=0.3.8
+localtileserver>=0.3.9
