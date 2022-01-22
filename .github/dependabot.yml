@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    insecure-external-code-execution: allow
+    schedule:
+      interval: "weekly"
+    labels:
+      - "maintenance"
+    ignore:
+      - dependency-name: "GDAL"
