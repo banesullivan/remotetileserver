@@ -2,5 +2,5 @@
 matplotlib
 cmocean
 gunicorn
-localtileserver==0.10.1
+localtileserver==0.10.2
 large-image-source-pil>=1.10
